@@ -6,9 +6,11 @@ public final class App {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("trial");
-        System.out.println("Sanjeet poo poo");
-        System.out.println("pull");
-
     }
+
+    public void counter (int x, int y) {
+        System.out.println("x=" + x + ", y=" + y);
+    }
+
 }
+
